@@ -1,2 +1,5 @@
 # P2PRBE-hub
-A Zite for a descentralized transition to a RBE
+
+A ZeroNet platform for starting a transition to a decentralized resource based economy.
+
+## Overview
